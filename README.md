@@ -1,4 +1,4 @@
-# ExpensesTracker_MERN_Stack_App
+# ExpensesTracker_MERN
 
 
 
